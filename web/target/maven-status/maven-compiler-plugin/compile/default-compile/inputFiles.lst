@@ -1,0 +1,8 @@
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/web/service/AssetService.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/repositories/AssetRepository.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/carpenter/CarpenterPageResult.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/web/service/RepositorySeeder.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/web/service/SampleData.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/model/Asset.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/carpenter/CarpenterPageableBuilder.java
+/Users/wsharar/carpenter/web/src/main/java/com/rapid7/web/controllers/CarpenterController.java
